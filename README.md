@@ -1,6 +1,6 @@
 base-mvc-servlet-application
 ============================
-"!https://travis-ci.org/vivitc/base-mvc-servlet-application.png!":https://travis-ci.org/vivitc/base-mvc-servlet-application
+{<img src="https://travis-ci.org/vivitc/base-mvc-servlet-application.png" />}[https://travis-ci.org/vivitc/base-mvc-servlet-application]
 
 This is a basic HelloWorld Spring MVC project.
 
