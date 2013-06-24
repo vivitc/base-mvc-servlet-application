@@ -37,7 +37,7 @@ public class HelloControllerTest {
     @Test
     public void should_render_to_hello_world(){
         model = new ModelMap();
-        String expectedView = "hello";
+        String expectedView = "hello_view";
 
         String actualView = helloController.printWelcome(model);
 
